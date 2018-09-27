@@ -1,0 +1,14 @@
+C:\Users\Rich\source\repos\QuestAPI\QuestAPI\bin\Release\netcoreapp2.1\win-x64\QuestAPI.deps.json
+C:\Users\Rich\source\repos\QuestAPI\QuestAPI\bin\Release\netcoreapp2.1\win-x64\QuestAPI.runtimeconfig.json
+C:\Users\Rich\source\repos\QuestAPI\QuestAPI\bin\Release\netcoreapp2.1\win-x64\QuestAPI.runtimeconfig.dev.json
+C:\Users\Rich\source\repos\QuestAPI\QuestAPI\bin\Release\netcoreapp2.1\win-x64\QuestAPI.dll
+C:\Users\Rich\source\repos\QuestAPI\QuestAPI\bin\Release\netcoreapp2.1\win-x64\QuestAPI.pdb
+C:\Users\Rich\source\repos\QuestAPI\QuestAPI\obj\Release\netcoreapp2.1\win-x64\QuestAPI.csprojAssemblyReference.cache
+C:\Users\Rich\source\repos\QuestAPI\QuestAPI\obj\Release\netcoreapp2.1\win-x64\QuestAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rich\source\repos\QuestAPI\QuestAPI\obj\Release\netcoreapp2.1\win-x64\QuestAPI.RazorAssemblyInfo.cache
+C:\Users\Rich\source\repos\QuestAPI\QuestAPI\obj\Release\netcoreapp2.1\win-x64\QuestAPI.RazorAssemblyInfo.cs
+C:\Users\Rich\source\repos\QuestAPI\QuestAPI\obj\Release\netcoreapp2.1\win-x64\QuestAPI.AssemblyInfoInputs.cache
+C:\Users\Rich\source\repos\QuestAPI\QuestAPI\obj\Release\netcoreapp2.1\win-x64\QuestAPI.AssemblyInfo.cs
+C:\Users\Rich\source\repos\QuestAPI\QuestAPI\obj\Release\netcoreapp2.1\win-x64\QuestAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Rich\source\repos\QuestAPI\QuestAPI\obj\Release\netcoreapp2.1\win-x64\QuestAPI.dll
+C:\Users\Rich\source\repos\QuestAPI\QuestAPI\obj\Release\netcoreapp2.1\win-x64\QuestAPI.pdb
